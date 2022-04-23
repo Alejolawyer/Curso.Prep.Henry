@@ -1,0 +1,7 @@
+"Solucion a JS-I";
+Aca te explico los conceptos basicos de la programacion:
+Variables: Es un espacio que se almacena en el sistema de arranque del computador o servidor, al cual se le puede poner cualquier nombre, ese espacio de la variable contiene cierta informacion
+Strings: Es la manera correcta de escribir texto simple dentro del sistema de programacion que estemos manejando, como redactar un parrafo o un titulo de texto en una pagina web.
+Funciones: las funciones en Javascript se encargan de administrar de la forma que necesitemos a las famosas variables que tienen la informacion, para tener un resultado deseado.
+Declaraciones: Son construcciones del lenguaje de la programacion, que se usan para identificar determinada cosa tales como variables o funciones.
+Valores booleanos: Son CONDICIONES o aspectos CONDICIONALES para ejecutar o no ejecutar lo que se esta construyendo en el lenguaje de programacion. Son logicos.
