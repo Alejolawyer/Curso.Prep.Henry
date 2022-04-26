@@ -1,0 +1,4 @@
+for: bucle infinito de variables asignadas hasta encontrar lo que se busca.
+&&: simbolo de asignacion obligatoria condicional de verdad como si fuera la letra "Y" ejemplo: se necesita un vaso "Y" leche para hacer un vaso con leche.
+||: simbolo de asignacion en programacion para dejar al arbitrio de cumplimiento de alguna de las 2 o mas variables que hayan: ejemplo: "me gusta esto "O" me gusta lo otro.
+!: símbolo utilizado para volver o regresar el valor contrario al que se esta usando comunmente: ejemplo ===es igual !=== no es igual.
