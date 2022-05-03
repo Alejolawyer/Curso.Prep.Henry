@@ -20,7 +20,7 @@ function obtenerLargoDelArray(array) {
   return array.length;
 }
 
-
+ 
 function incrementarPorUno(array) {
   // "array" debe ser una matriz de enteros (int/integers)
   // Aumenta cada entero por 1
