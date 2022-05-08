@@ -1,0 +1,2 @@
+Prototype: Es la propiedad que hacer parte del OBJETO, pero que no es visible a simple vista, aunque siempre la podemos usar cuando la necesitemos, como lo indica la palabra son prototipos, algo que ya está definido dentro del objeto para su uso.
+_Constructors_: son aquellas Keyword que se utilizan para formar una PLANTILLA o un modelo estandar que posteriormente vamos a usar en objetos, pueden ser varios objetos y seguirá funcionando.

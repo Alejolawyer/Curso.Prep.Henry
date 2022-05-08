@@ -1,0 +1,12 @@
+Objetos: Todo en Javascript son objetos, se debe tener en cuenta que dentro de los objetos se pueden almacenar-
+-variables, funciones (llamados métodos cuando se hacen dentro de un objeto), los objetos se diferencian de los arrays-
+- porque sobre los objetos hay gran cantidad de informacion de una sola cosa.
+Propiedades: Las propiedades son aquellas cosas que hacen parte dentro de los Objetos, la propiedad es aquella-
+-caracteristica propia del objeto, al que dicha propiedad se le asignara un valor.
+Metodos: Son las ya conocidas funciones, solo que se les llama metodos cuando se citan como propiedades dentro de un Objeto.
+Bucle For In: Es aquel metodo que se usa para iterar (repetir) pero especificamente dentro de un objeto-
+-se usar For, luego se abre parentesis y debe nombrar una variable, luego usar in y finalmente poner el-
+-nombre del Objeto que estemos usando en ese momento.
+Notacion de puntos y notacion de corchetes: Se usan los primeros para llamar al objeto que necesitemos-
+-del mismo modo podemos llamar usando corchetes, solo se deben poner entre corchetes antecediendo el-
+nombre del Objeto.
