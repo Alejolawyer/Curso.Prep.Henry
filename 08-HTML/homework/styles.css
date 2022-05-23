@@ -1,24 +1,42 @@
 <style>
+
   h1 {
     color: black
   }
+
   img {
     width: 400px
   }
+
   body{
-    background-color: green;
+    background-color: white;
     color: black;
     font-family: Baghdad;
+    display: block;
+    margin-left: 350px;
   }
+
+  body{
+  height: 890px;
+  background-image: url(https://www.lifeder.com/wp-content/uploads/2017/04/bandera-colombia.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+
+  }
+
   #thirdDiv{
     Heigth: 600px;
     Width: 500px;
     background-color: yellow;
     padding: 50px;
     border: 15px inset red;
+    margin: 50px;
   }
+
   #spanId{
     font-size: 18px;
-    margin: 50px;
+    margin: 1px;
   }
 </style>
