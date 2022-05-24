@@ -1,0 +1,42 @@
+<style>
+
+  h1 {
+    color: black
+  }
+
+  img {
+    width: 400px
+  }
+
+  body{
+    background-color: white;
+    color: black;
+    font-family: Persia;
+    display: block;
+    margin-left: 1px;
+  }
+
+  body{
+  height: 890px;
+  background-image: url(https://thumbs.dreamstime.com/b/conjunto-de-simples-im%C3%A1genes-monocromas-espadas-medievales-dos-manos-dibujadas-por-l%C3%ADneas-168200445.jpg);
+  background-position: center;
+  background-size: contain;
+  background-attachment: fixed;
+  background-repeat: repeat;
+  }
+
+  #divClass3{
+    Heigth: 400px;
+    Width: 450px;
+    background-color: orange;
+    padding: 30px;
+    border: 10px inset blue;
+    margin: 20px;
+  }
+
+
+  #spanId{
+    font-size: 17px;
+    margin: 1 px;
+  }
+</style>
